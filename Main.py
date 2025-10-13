@@ -1,1 +1,1 @@
-#Hello this is where we are starting the Cheese Index project lol
+im gonna add something here later lol
