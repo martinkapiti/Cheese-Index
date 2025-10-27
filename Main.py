@@ -9,7 +9,7 @@ target, shopRite = {"Cheddar": 1.45, "Mozzarella": 1.26, "Swiss": 1.55, "America
 
 stores = (walmart, stopAndShop, target, shopRite) # Store each dictionary in a tuple for simple iteration
 
-lowestPrice = inf # Set lowestPrice as the placeholder infinity. Should store the lowest price from of every store
+lowestPrice = inf # Set lowestPrice as the placeholder infinity. Should store the lowest price of every store
 
 i = 0 # A counter to determine what store has the lowest price (based off of the stores tuple)
 
