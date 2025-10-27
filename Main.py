@@ -3,7 +3,7 @@
 
 from math import inf # Import infinity as a placeholder value for price comparison
 
-# Dicitonaries representing stores, with each key being a cheese name and each value being a random price
+# Dictionaries representing stores, with each key being a cheese name and each value being a random price
 walmart, stopAndShop = {"Cheddar": 1.23, "Mozzarella": 2.76, "Swiss": 2.48, "American": 1.31}, {"Cheddar": 1.26, "Mozzarella": 2.54, "Swiss": 1.06, "American": 2.06}
 target, shopRite = {"Cheddar": 1.45, "Mozzarella": 1.26, "Swiss": 1.55, "American": 1.96}, {"Cheddar": 1.33, "Mozzarella": 2.93, "Swiss": 2.88, "American": 2.97}
 
