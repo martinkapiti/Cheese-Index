@@ -1,3 +1,3 @@
 Hello welcome to cheese comparison 
 
-** Check "Brian's Main" branch for a complete version of Main.py
+** Check "Martin's Main" branch for a complete version of Main.py, along with some other stuff
